@@ -1,0 +1,14 @@
+{
+  "name": "mo-cha",
+  "version": "1.0.0",
+  "description": "Traditional mobile money transfer using ussd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mo-cha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
